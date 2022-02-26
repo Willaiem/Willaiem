@@ -6,7 +6,7 @@
 
 🐱‍🏍 Right now, I'm learning **React Native**, because **I'm really hooked on building cross-platform apps**, instead of **sticking with the front-end and going to learn Next.js**. It seems this will benefit me way more than just having the ability to build an SSR app. Plus, of course, **there are a lot of demands for this position in Poland** than for Next.js developers (but this doesn't mean that nobody needs it).
 
-👯 I’m looking to collaborate on **Sinonavo or any of your projects.** I can do **code reviews**, give you **constructive feedback**, so you can learn and progress **significantly faster** with me.
+👯 I’m looking to collaborate on **[Sinonavo](https://github.com/Willaiem/Sinonavo) or any of your projects.** I can do **code reviews**, give you **constructive feedback**, so you can learn and progress **significantly faster** with me.
 
 👨‍💻 **Curious? <a href="https://cv-damian-zygadlo.vercel.app/DZ_Resume.pdf" target="_blank">Check out my resume/CV here.</a>**
  
