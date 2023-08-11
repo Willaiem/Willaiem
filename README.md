@@ -8,7 +8,6 @@
 
 <h3 align="left">Connect with me here (feel free to ask questions!):</h3>
 <p align="left">
-<a href="https://discord.gg/Will4_U#6954" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Will4_U#6954" height="30" width="40" /></a>
 <a href="https://twitter.com/will4_uu" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="will4_uu" height="30" width="40" /></a>
 <a 
 </p>
